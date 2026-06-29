@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# DevVoice 🎯
+# DevVoice
 
 ## Basic Details
 
@@ -70,7 +70,7 @@ npm run compile
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots
 
 ![Screenshot1](images/SS1.png)
 The DevVoice Recorder panel allows developers to record voice explanations linked to a selected code block and replay them directly inside VS Code.
@@ -113,7 +113,7 @@ This video briefly shows the working of DevVoice. A test code is written and the
 
 
 
-## AI Tools Used (Optional - For Transparency Bonus)
+## AI Tools Used
 
 **Tool Used:** ChatGPT, Gemini
 
